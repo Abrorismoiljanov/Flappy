@@ -1,0 +1,9 @@
+build/
+CMakeFiles/
+CMakeCaches.txt
+MakeFile
+cmake_install.cmake
+
+*.o
+*.swp
+
